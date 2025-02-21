@@ -1,0 +1,17 @@
+{
+	"name": "AzureDataFactory1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataFactory",
+		"typeProperties": {
+			"subscriptionId": "7310f91f-40eb-47ce-9748-1c2285ccf586",
+			"resourceGroupName": "BankingdataResourcegroup",
+			"dataFactoryName": "bankingdatadf",
+			"authenticationType": "ManagedServiceIdentity"
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime1",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
