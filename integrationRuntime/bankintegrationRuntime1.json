@@ -1,0 +1,6 @@
+{
+	"name": "bankintegrationRuntime1",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
