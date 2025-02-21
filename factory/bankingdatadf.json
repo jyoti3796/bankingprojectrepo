@@ -1,0 +1,9 @@
+{
+	"name": "bankingdatadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0dffbed6-6c84-4bfa-b3c7-76a144e24990",
+		"tenantId": "b5dc206c-17fd-4b06-8bc8-24f0bb650229"
+	}
+}
